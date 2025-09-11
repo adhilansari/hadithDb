@@ -4,8 +4,8 @@
     "collections": [
         {
             "name": "Sunan Abu Dawud",
-            "id": "dawud",
-            "endpoint": "app/data/ara-dawud/",
+            "id": "abudawud",
+            "endpoint": "app/data/ara-abudawud/",
             "count": 5274
         },
         {
@@ -33,8 +33,8 @@
             "language_code": "eng",
             "available_collections": [
                 {
-                    "collection_id": "dawud",
-                    "endpoint": "app/translations/eng-dawud/"
+                    "collection_id": "abudawud",
+                    "endpoint": "app/translations/eng-abudawud/"
                 },
                 {
                     "collection_id": "tirmidhi",
