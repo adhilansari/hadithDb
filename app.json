@@ -3,24 +3,6 @@
     "app_name": "HadithDB API",
     "collections": [
         {
-            "name": "Sahih al-Bukhari",
-            "id": "bukhari",
-            "endpoint": "app/data/ara-bukhari/",
-            "count": 7563
-        },
-        {
-            "name": "Sahih Muslim",
-            "id": "muslim",
-            "endpoint": "app/data/ara-muslim/",
-            "count": 7456
-        },
-        {
-            "name": "Sunan an-Nasai",
-            "id": "nasai",
-            "endpoint": "app/data/ara-nasai/",
-            "count": 5758
-        },
-        {
             "name": "Sunan Abu Dawud",
             "id": "dawud",
             "endpoint": "app/data/ara-dawud/",
@@ -31,24 +13,6 @@
             "id": "tirmidhi",
             "endpoint": "app/data/ara-tirmidhi/",
             "count": 3956
-        },
-        {
-            "name": "Sunan Ibn Majah",
-            "id": "ibn-majah",
-            "endpoint": "app/data/ara-ibn-majah/",
-            "count": 4341
-        },
-        {
-            "name": "Muwatta Malik",
-            "id": "malik",
-            "endpoint": "app/data/ara-malik/",
-            "count": 1856
-        },
-        {
-            "name": "Forty Hadith of Shah Waliullah Dehlawi",
-            "id": "deh-forty",
-            "endpoint": "app/data/ara-deh-forty/",
-            "count": 40
         },
         {
             "name": "Forty Hadith of an-Nawawi",
@@ -69,18 +33,6 @@
             "language_code": "eng",
             "available_collections": [
                 {
-                    "collection_id": "bukhari",
-                    "endpoint": "app/translations/eng-bukhari/"
-                },
-                {
-                    "collection_id": "muslim",
-                    "endpoint": "app/translations/eng-muslim/"
-                },
-                {
-                    "collection_id": "nasai",
-                    "endpoint": "app/translations/eng-nasai/"
-                },
-                {
                     "collection_id": "dawud",
                     "endpoint": "app/translations/eng-dawud/"
                 },
@@ -89,70 +41,12 @@
                     "endpoint": "app/translations/eng-tirmidhi/"
                 },
                 {
-                    "collection_id": "ibn-majah",
-                    "endpoint": "app/translations/eng-ibn-majah/"
-                },
-                {
-                    "collection_id": "malik",
-                    "endpoint": "app/translations/eng-malik/"
-                },
-                {
-                    "collection_id": "deh-forty",
-                    "endpoint": "app/translations/eng-deh-forty/"
-                },
-                {
                     "collection_id": "nawawi",
                     "endpoint": "app/translations/eng-nawawi/"
                 },
                 {
                     "collection_id": "qudsi",
                     "endpoint": "app/translations/eng-qudsi/"
-                }
-            ]
-        },
-        {
-            "language_name": "Malayalam",
-            "language_code": "ml",
-            "available_collections": [
-                {
-                    "collection_id": "bukhari",
-                    "endpoint": "app/translations/ml-bukhari/"
-                },
-                {
-                    "collection_id": "muslim",
-                    "endpoint": "app/translations/ml-muslim/"
-                },
-                {
-                    "collection_id": "nasai",
-                    "endpoint": "app/translations/ml-nasai/"
-                },
-                {
-                    "collection_id": "dawud",
-                    "endpoint": "app/translations/ml-dawud/"
-                },
-                {
-                    "collection_id": "tirmidhi",
-                    "endpoint": "app/translations/ml-tirmidhi/"
-                },
-                {
-                    "collection_id": "ibn-majah",
-                    "endpoint": "app/translations/ml-ibn-majah/"
-                },
-                {
-                    "collection_id": "malik",
-                    "endpoint": "app/translations/ml-malik/"
-                },
-                {
-                    "collection_id": "deh-forty",
-                    "endpoint": "app/translations/ml-deh-forty/"
-                },
-                {
-                    "collection_id": "nawawi",
-                    "endpoint": "app/translations/ml-nawawi/"
-                },
-                {
-                    "collection_id": "qudsi",
-                    "endpoint": "app/translations/ml-qudsi/"
                 }
             ]
         }
