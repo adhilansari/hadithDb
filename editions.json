@@ -35,8 +35,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-abudawud.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-abudawud.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-abudawud.min.json"
 			},
 			{
 				"name": "eng-abudawud",
@@ -47,8 +47,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-abudawud.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-abudawud.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-abudawud.min.json"
 			},
 			{
 				"name": "fra-abudawud",
@@ -59,8 +59,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-abudawud.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-abudawud.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-abudawud.min.json"
 			},
 			{
 				"name": "ind-abudawud",
@@ -71,8 +71,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-abudawud.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-abudawud.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-abudawud.min.json"
 			},
 			{
 				"name": "rus-abudawud",
@@ -83,8 +83,8 @@
 				"direction": "ltr",
 				"source": "https://isnad.link/",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/rus-abudawud.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/rus-abudawud.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/rus-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/rus-abudawud.min.json"
 			},
 			{
 				"name": "tur-abudawud",
@@ -95,8 +95,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-abudawud.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-abudawud.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-abudawud.min.json"
 			},
 			{
 				"name": "urd-abudawud",
@@ -107,8 +107,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-abudawud.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-abudawud.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-abudawud.min.json"
 			}
 		]
 	},
@@ -148,8 +148,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-bukhari.min.json"
 			},
 			{
 				"name": "eng-bukhari",
@@ -160,8 +160,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-bukhari.min.json"
 			},
 			{
 				"name": "fra-bukhari",
@@ -172,8 +172,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-bukhari.min.json"
 			},
 			{
 				"name": "ind-bukhari",
@@ -184,8 +184,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-bukhari.min.json"
 			},
 			{
 				"name": "rus-bukhari",
@@ -196,8 +196,8 @@
 				"direction": "ltr",
 				"source": "https://isnad.link/book/sahih-al-buhari",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/rus-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/rus-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/rus-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/rus-bukhari.min.json"
 			},
 			{
 				"name": "tam-bukhari",
@@ -208,8 +208,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tam-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tam-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tam-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tam-bukhari.min.json"
 			},
 			{
 				"name": "tur-bukhari",
@@ -220,8 +220,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-bukhari.min.json"
 			},
 			{
 				"name": "urd-bukhari",
@@ -232,8 +232,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-bukhari.min.json"
 			}
 		]
 	},
@@ -273,8 +273,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-dehlawi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-dehlawi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-dehlawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-dehlawi.min.json"
 			},
 			{
 				"name": "fra-dehlawi",
@@ -285,8 +285,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-dehlawi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-dehlawi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-dehlawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-dehlawi.min.json"
 			}
 		]
 	},
@@ -326,8 +326,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-ibnmajah.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-ibnmajah.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-ibnmajah.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-ibnmajah.min.json"
 			},
 			{
 				"name": "eng-ibnmajah",
@@ -338,8 +338,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-ibnmajah.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-ibnmajah.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-ibnmajah.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-ibnmajah.min.json"
 			},
 			{
 				"name": "fra-ibnmajah",
@@ -350,8 +350,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-ibnmajah.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-ibnmajah.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-ibnmajah.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-ibnmajah.min.json"
 			},
 			{
 				"name": "ind-ibnmajah",
@@ -362,8 +362,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-ibnmajah.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-ibnmajah.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-ibnmajah.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-ibnmajah.min.json"
 			},
 			{
 				"name": "tur-ibnmajah",
@@ -374,8 +374,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-ibnmajah.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-ibnmajah.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-ibnmajah.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-ibnmajah.min.json"
 			},
 			{
 				"name": "urd-ibnmajah",
@@ -386,8 +386,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-ibnmajah.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-ibnmajah.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-ibnmajah.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-ibnmajah.min.json"
 			}
 		]
 	},
@@ -427,8 +427,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-malik.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-malik.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-malik.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-malik.min.json"
 			},
 			{
 				"name": "eng-malik",
@@ -439,8 +439,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-malik.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-malik.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-malik.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-malik.min.json"
 			},
 			{
 				"name": "fra-malik",
@@ -451,8 +451,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-malik.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-malik.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-malik.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-malik.min.json"
 			},
 			{
 				"name": "ind-malik",
@@ -463,8 +463,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-malik.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-malik.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-malik.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-malik.min.json"
 			},
 			{
 				"name": "tur-malik",
@@ -475,8 +475,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-malik.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-malik.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-malik.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-malik.min.json"
 			},
 			{
 				"name": "urd-malik",
@@ -487,8 +487,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-malik.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-malik.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-malik.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-malik.min.json"
 			}
 		]
 	},
@@ -528,8 +528,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-muslim.min.json"
 			},
 			{
 				"name": "eng-muslim",
@@ -540,8 +540,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-muslim.min.json"
 			},
 			{
 				"name": "fra-muslim",
@@ -552,8 +552,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-muslim.min.json"
 			},
 			{
 				"name": "ind-muslim",
@@ -564,8 +564,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-muslim.min.json"
 			},
 			{
 				"name": "rus-muslim",
@@ -576,8 +576,8 @@
 				"direction": "ltr",
 				"source": "https://isnad.link/",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/rus-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/rus-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/rus-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/rus-muslim.min.json"
 			},
 			{
 				"name": "tam-muslim",
@@ -588,8 +588,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tam-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tam-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tam-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tam-muslim.min.json"
 			},
 			{
 				"name": "tur-muslim",
@@ -600,8 +600,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-muslim.min.json"
 			},
 			{
 				"name": "urd-muslim",
@@ -612,8 +612,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-muslim.min.json"
 			}
 		]
 	},
@@ -653,8 +653,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-nasai.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-nasai.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-nasai.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-nasai.min.json"
 			},
 			{
 				"name": "eng-nasai",
@@ -665,8 +665,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-nasai.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-nasai.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-nasai.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-nasai.min.json"
 			},
 			{
 				"name": "fra-nasai",
@@ -677,8 +677,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-nasai.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-nasai.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-nasai.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-nasai.min.json"
 			},
 			{
 				"name": "ind-nasai",
@@ -689,8 +689,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-nasai.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-nasai.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-nasai.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-nasai.min.json"
 			},
 			{
 				"name": "tur-nasai",
@@ -701,8 +701,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-nasai.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-nasai.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-nasai.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-nasai.min.json"
 			},
 			{
 				"name": "urd-nasai",
@@ -713,8 +713,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-nasai.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-nasai.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-nasai.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-nasai.min.json"
 			}
 		]
 	},
@@ -754,8 +754,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-nawawi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-nawawi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-nawawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-nawawi.min.json"
 			},
 			{
 				"name": "eng-nawawi",
@@ -766,8 +766,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-nawawi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-nawawi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-nawawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-nawawi.min.json"
 			},
 			{
 				"name": "fra-nawawi",
@@ -778,8 +778,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-nawawi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-nawawi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-nawawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-nawawi.min.json"
 			}
 		]
 	},
@@ -819,8 +819,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-qudsi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-qudsi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-qudsi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-qudsi.min.json"
 			},
 			{
 				"name": "fra-qudsi",
@@ -831,8 +831,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-qudsi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/fra-qudsi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-qudsi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/fra-qudsi.min.json"
 			}
 		]
 	},
@@ -872,8 +872,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-tirmidhi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ben-tirmidhi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-tirmidhi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ben-tirmidhi.min.json"
 			},
 			{
 				"name": "eng-tirmidhi",
@@ -884,8 +884,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-tirmidhi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/eng-tirmidhi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-tirmidhi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/eng-tirmidhi.min.json"
 			},
 			{
 				"name": "ind-tirmidhi",
@@ -896,8 +896,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-tirmidhi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/ind-tirmidhi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-tirmidhi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/ind-tirmidhi.min.json"
 			},
 			{
 				"name": "tur-tirmidhi",
@@ -908,8 +908,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-tirmidhi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/tur-tirmidhi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-tirmidhi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/tur-tirmidhi.min.json"
 			},
 			{
 				"name": "urd-tirmidhi",
@@ -920,8 +920,8 @@
 				"direction": "rtl",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-tirmidhi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translation/urd-tirmidhi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-tirmidhi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1/translations/urd-tirmidhi.min.json"
 			}
 		]
 	}
