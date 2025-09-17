@@ -1,56 +1,33 @@
-name: Minify JSON and Update Editions
+name: Minify JSON
 
 on:
   push:
     paths:
-      - "translations/*.json"
-      - "data/*.json"
-      - "editions/*.json"
-      - "editions.json"
+      - "**/*.json"
 
 jobs:
-  build:
+  minify:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
 
       - name: Install jq
         run: sudo apt-get install -y jq
 
-      - name: Minify JSON
+      - name: Minify all JSON files
         run: |
-          for folder in translations data editions; do
-            for file in $folder/*.json; do
-              if [[ "$file" != *.min.json ]]; then
-                jq -c . "$file" > "${file%.json}.min.json"
-                echo "Generated ${file%.json}.min.json"
-              fi
-            done
+          for file in $(find . -type f -name "*.json"); do
+            # Skip already minified files
+            if [[ "$file" != *.min.json ]]; then
+              jq -c . "$file" > "${file%.json}.min.json"
+              echo "Generated ${file%.json}.min.json"
+            fi
           done
 
-      - name: Update editions.json links
-        run: |
-          jq 'walk(
-                if type == "string" and startswith("https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1") then
-                  sub("https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1"; "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v1")
-                else . end
-              ) |
-              walk(
-                if type == "string" and test("\\.json$") then
-                  if test("/ara-") then
-                    sub("/editions/"; "/data/") | sub("\\.json$"; ".min.json")
-                  else
-                    sub("\\.json$"; ".min.json")
-                  end
-                else . end
-              )' editions.json > editions.tmp.json && mv editions.tmp.json editions.json
-          echo "Updated editions.json links: @v1, minified JSON, and ara- files to data/"
-
-      - name: Commit changes
+      - name: Commit minified JSON
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add translations/*.min.json data/*.min.json editions/*.min.json editions.json
-          git commit -m "Auto-update minified JSON and editions.json with @v1 links" || echo "No changes to commit"
+          git add **/*.min.json
+          git diff --staged --quiet || git commit -m "Auto-update minified JSON"
           git push
