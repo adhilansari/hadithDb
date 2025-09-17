@@ -1,0 +1,27 @@
+name: Minify JSON
+on:
+  push:
+    paths:
+      - "translations/*.json"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install jq
+        run: sudo apt-get install -y jq
+      - name: Minify JSON
+        run: |
+          for file in translations/*.json; do
+            if [[ "$file" != *.min.json ]]; then
+              jq -c . "$file" > "${file%.json}.min.json"
+              echo "Generated ${file%.json}.min.json"
+            fi
+          done
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add translations/*.min.json
+          git commit -m "Auto-update minified JSON"
+          git push
