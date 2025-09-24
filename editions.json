@@ -782,7 +782,7 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/fra-nawawi.min.json"
 			},
 			{
-				"name": "ml-nawawi",
+				"name": "mal-nawawi",
 				"book": "nawawi",
 				"author": "Unknown",
 				"language": "Malayalam",
@@ -790,8 +790,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/ml-nawawi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/ml-nawawi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/mal-nawawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/mal-nawawi.min.json"
 			}
 		]
 	},
@@ -847,7 +847,7 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/fra-qudsi.min.json"
 			},
 			{
-				"name": "ml-qudsi",
+				"name": "mal-qudsi",
 				"book": "qudsi",
 				"author": "Unknown",
 				"language": "Malayalam",
@@ -855,8 +855,8 @@
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/ml-qudsi.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/ml-qudsi.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/mal-qudsi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/adhilansari/hadithDb@v2/translations/mal-qudsi.min.json"
 			}
 		]
 	},
